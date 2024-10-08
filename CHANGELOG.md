@@ -4,6 +4,22 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+## [16.14.2](https://github.com/googleapis/release-please/compare/v16.14.1...v16.14.2) (2024-10-08)
+
+
+### Bug Fixes
+
+* **java-yoshi:** match full artifact id when updating versions ([#2398](https://github.com/googleapis/release-please/issues/2398)) ([e062dc1](https://github.com/googleapis/release-please/commit/e062dc1b73b336b021f62971c50917d6ca4c266b))
+* make workspace plugin with `separate-pull-request` fine ([#2310](https://github.com/googleapis/release-please/issues/2310)) ([15c75a9](https://github.com/googleapis/release-please/commit/15c75a92761f844dfeb8dec36efbb15af6848e27))
+
+## [16.14.1](https://github.com/googleapis/release-please/compare/v16.14.0...v16.14.1) (2024-10-01)
+
+
+### Bug Fixes
+
+* **deps:** replace jsonpath with jsonpath-plus ([#2391](https://github.com/googleapis/release-please/issues/2391)) ([47db9b5](https://github.com/googleapis/release-please/commit/47db9b5ce447fdc71a169c94e58480b525210679))
+* when parsing multiple messages from a single commit, require 2 newlines ([#2390](https://github.com/googleapis/release-please/issues/2390)) ([bb5e69b](https://github.com/googleapis/release-please/commit/bb5e69b958c9dd4818c30315ae99d3ecc7e41fa1))
+
 ## [16.14.0](https://github.com/googleapis/release-please/compare/v16.13.0...v16.14.0) (2024-09-17)
 
 
